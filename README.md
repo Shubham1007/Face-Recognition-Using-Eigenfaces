@@ -7,7 +7,8 @@
 3) cv2 (openCV2)</br>
 </h4>
 </br>
-# To Run=>
+
+<h1> To Run=></h1>
 
 Put the training image into directory example, each class of images should be in the same subdir, since the name of the subdir will be the name of the class.
 
